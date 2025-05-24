@@ -10,5 +10,5 @@ Este projeto foi desenvolvido durante o curso da EBAC, com foco em controle de v
 
 ---
 
-**Autor:** Djeison Almeida
+**Autor:** Djeison Almeida  
 **Data:** Maio/2025
